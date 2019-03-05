@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">869 Online Reservations</string>
+    <string name="restaurant_3">Restaurant 3</string>
+    <string name="boozies">Boozies</string>
+    <string name="carambola_beach_club">Carambola Beach Club</string>
+    <string name="hours_open_closes_11pm">Hours: Open ⋅ Closes 11PM</string>
+    <string name="address_st_kitts_nevis"><![CDATA[Address: St Kitts & Nevis]]></string>
+    <string name="phone_1_869_465_9090">Phone: +1 869 465 9090</string>
+    <string name="textview">TextView</string>
+    <string name="carambola_restaurant">Carambola Restaurant</string>
+    <string name="reservation">Reservation</string>
+    <string name="reserve">Reserve</string>
+</resources>
